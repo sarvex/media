@@ -14,7 +14,7 @@
    id="svg4239"
    version="1.1"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="logo_gray.svg"
+   sodipodi:docname="logo_bw.svg"
    inkscape:export-filename="/Users/stephen/Desktop/hexops/media/twitter/header.png"
    inkscape:export-xdpi="65.917969"
    inkscape:export-ydpi="65.917969">
@@ -39,7 +39,7 @@
      inkscape:cx="1024"
      inkscape:cy="256"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-8"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1792"
@@ -68,31 +68,31 @@
     <g
        aria-label="Hex"
        id="text4141"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal">
       <path
          d="m 300.521,573.70593 h 61.875 v 337.5 H 300.521 V 773.39343 H 79.270996 v 137.8125 h -61.875 v -337.5 h 61.875 v 137.8125 H 300.521 Z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linejoin:miter"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;paint-order:normal;stroke-linejoin:miter"
          id="path54" />
       <path
          d="m 625.15967,639.33093 q 26.71875,0 45.46875,19.21875 19.21875,18.75 19.21875,45.46875 v 102.1875 h -214.6875 v 40.3125 q 0,3.28125 3.28125,3.28125 h 211.40625 v 61.40625 H 478.44092 q -26.71875,0 -45.9375,-18.75 -18.75,-19.21875 -18.75,-45.9375 v -142.5 q 0,-26.71875 18.75,-45.46875 19.21875,-19.21875 45.9375,-19.21875 z m -150,105 h 153.28125 v -40.3125 q 0,-3.28125 -3.28125,-3.28125 H 478.44092 q -3.28125,0 -3.28125,3.28125 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linejoin:miter"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;paint-order:normal;stroke-linejoin:miter"
          id="path56" />
       <path
          d="m 940.10107,639.33093 h 67.03123 v 15.46875 l -100.78123,118.125 100.78123,122.8125 v 15.46875 h -67.03123 l -73.59375,-90 -73.125,90 h -67.03125 v -15.46875 l 100.3125,-122.8125 -100.3125,-118.125 v -15.46875 h 67.03125 l 73.125,86.25 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linejoin:miter"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;paint-order:normal;stroke-linejoin:miter"
          id="path58" />
     </g>
     <g
        aria-label="ps"
        id="text4145"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal">
       <path
          d="m 1657.8145,638.49414 q 26.7187,0 45.4687,19.21875 19.2188,18.75 19.2188,45.46875 v 142.5 q 0,26.71875 -19.2188,45.9375 -18.75,18.75 -45.4687,18.75 h -150 v 107.81246 h -61.4063 V 638.49414 Z m 3.2812,207.1875 v -142.5 q 0,-3.28125 -3.2812,-3.28125 h -146.7188 q -3.2812,0 -3.2812,3.28125 v 142.5 q 0,3.28125 3.2812,3.28125 h 146.7188 q 3.2812,0 3.2812,-3.28125 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
          id="path61" />
       <path
          d="m 2030.9688,703.18164 v 11.71875 h -61.4063 v -11.71875 q 0,-3.28125 -3.2812,-3.28125 h -146.7188 q -3.2812,0 -3.2812,3.28125 v 37.5 q 0,2.8125 3.2812,2.8125 h 146.7188 q 27.1875,0 45.9375,19.21875 18.75,18.75 18.75,45.46875 v 37.5 q 0,26.71875 -18.75,45.9375 -18.75,18.75 -45.9375,18.75 h -146.7188 q -26.7187,0 -45.9375,-18.75 -18.75,-19.21875 -18.75,-45.9375 v -11.71875 h 61.4063 v 11.71875 q 0,3.28125 3.2812,3.28125 h 146.7188 q 3.2812,0 3.2812,-3.28125 v -37.5 q 0,-2.8125 -3.2812,-2.8125 h -146.7188 q -26.7187,0 -45.9375,-18.75 -18.75,-19.21875 -18.75,-45.9375 v -37.5 q 0,-26.71875 18.75,-45.46875 19.2188,-19.21875 45.9375,-19.21875 h 146.7188 q 27.1875,0 45.9375,19.21875 18.75,18.75 18.75,45.46875 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75000000000000000px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
          id="path63" />
     </g>
     <g
