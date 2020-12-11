@@ -9,13 +9,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2048"
-   height="512"
-   viewBox="0 0 2048 512.00001"
+   width="1804.0397"
+   height="513.03137"
+   viewBox="0 0 1804.0397 513.03138"
    id="svg4239"
    version="1.1"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="logo_bw.svg"
+   sodipodi:docname="logo_whitebg.svg"
    inkscape:export-filename="/Users/stephen/Desktop/hexops/media/twitter/header.png"
    inkscape:export-xdpi="65.917969"
    inkscape:export-ydpi="65.917969">
@@ -37,20 +37,6 @@
          offset="0"
          id="stop4047" />
     </linearGradient>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path3676" />
-    </marker>
     <linearGradient
        id="linearGradient3502"
        osb:paint="solid">
@@ -91,18 +77,6 @@
          offset="0"
          id="stop3783" />
     </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1160">
-      <rect
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:28.4232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1162"
-         width="2346.7292"
-         height="586.68231"
-         x="-2854.5117"
-         y="880.51978"
-         transform="rotate(-45)" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -111,21 +85,34 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36814837"
-     inkscape:cx="1378.2449"
-     inkscape:cy="-30.195602"
+     inkscape:zoom="0.45909079"
+     inkscape:cx="803.85194"
+     inkscape:cy="-90.895355"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
-     inkscape:window-width="1792"
+     inkscape:window-width="1784"
      inkscape:window-height="995"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:document-rotation="0"
      inkscape:snap-global="false"
-     inkscape:snap-bbox="false" />
+     inkscape:snap-bbox="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4968"
+       empspacing="128"
+       spacingx="1"
+       spacingy="1"
+       originx="-117.62369"
+       originy="-2.7515485" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4244">
     <rdf:RDF>
@@ -142,18 +129,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-540.36216)">
+     transform="translate(-117.62369,-543.11371)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:118.318;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:111.849;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4223"
-       width="1929.6818"
-       height="393.68161"
-       x="59.159073"
-       y="599.5213" />
+       width="1692.1907"
+       height="401.18234"
+       x="173.54819"
+       y="599.03821" />
     <g
        id="layer1-8-8"
        inkscape:label="Layer 1"
-       transform="matrix(0.76828874,0,0,0.76821188,787.7994,-237.76162)">
+       transform="matrix(0.56363333,0,0,0.56357694,847.85232,54.901437)">
       <g
          id="g996"
          style="stroke:#ffffff;stroke-opacity:1" />
@@ -162,7 +149,7 @@
        aria-label="Hex"
        id="text4141"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       transform="matrix(1.0000887,0,0,0.99998871,-8.7015839e-4,0.0077705)">
+       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)">
       <path
          d="m 300.521,573.70593 h 61.875 v 337.5 H 300.521 V 773.39343 H 79.270996 v 137.8125 h -61.875 v -337.5 h 61.875 v 137.8125 H 300.521 Z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -180,7 +167,7 @@
        aria-label="ps"
        id="text4145"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       transform="matrix(1.0000887,0,0,0.99998871,-8.7015839e-4,0.0077705)">
+       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)">
       <path
          d="m 1657.8145,638.49414 q 26.7187,0 45.4687,19.21875 19.2188,18.75 19.2188,45.46875 v 142.5 q 0,26.71875 -19.2188,45.9375 -18.75,18.75 -45.4687,18.75 h -150 v 107.81246 h -61.4063 V 638.49414 Z m 3.2812,207.1875 v -142.5 q 0,-3.28125 -3.2812,-3.28125 h -146.7188 q -3.2812,0 -3.2812,3.28125 v 142.5 q 0,3.28125 3.2812,3.28125 h 146.7188 q 3.2812,0 3.2812,-3.28125 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -193,7 +180,7 @@
     <g
        id="layer1-8"
        inkscape:label="Layer 1"
-       transform="matrix(0.76828874,0,0,0.76821188,1030.6542,165.53778)">
+       transform="matrix(0.56363333,0,0,0.56357694,1026.0159,350.77064)">
       <path
          d="M 459.2816,912.39051 257.15733,1030.4234 53.875722,914.39505 52.718396,680.33386 254.84267,562.30099 458.12428,678.32931 Z"
          inkscape:randomized="0"
@@ -284,11 +271,11 @@
        aria-label="///////"
        id="text1326"
        style="font-style:normal;font-weight:normal;font-size:533.333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.0000887,0,0,0.99998871,-8.7015839e-4,0.0077705)" />
+       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)" />
     <g
        aria-label="/////////////////"
        id="text1436"
        style="font-size:533.333px;line-height:1.25;font-family:sans-serif;letter-spacing:-100px"
-       transform="matrix(1.0000887,0,0,0.99998871,-8.7015839e-4,0.0077705)" />
+       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)" />
   </g>
 </svg>
