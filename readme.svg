@@ -9,13 +9,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1804.0397"
-   height="513.03137"
-   viewBox="0 0 1804.0397 513.03138"
+   width="128"
+   height="36"
+   viewBox="0 0 128 36.000001"
    id="svg4239"
    version="1.1"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="logo_whitebg.svg"
+   sodipodi:docname="readme.svg"
    inkscape:export-filename="/Users/stephen/Desktop/hexops/media/twitter/header.png"
    inkscape:export-xdpi="65.917969"
    inkscape:export-ydpi="65.917969">
@@ -85,9 +85,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45909079"
-     inkscape:cx="803.85194"
-     inkscape:cy="-90.895355"
+     inkscape:zoom="5.7826814"
+     inkscape:cx="36.594324"
+     inkscape:cy="20.198883"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -131,16 +131,16 @@
      id="layer1"
      transform="translate(-117.62369,-543.11371)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:111.849;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.88813;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4223"
-       width="1692.1907"
-       height="401.18234"
-       x="173.54819"
-       y="599.03821" />
+       width="120.11184"
+       height="28.111872"
+       x="121.56776"
+       y="547.0578" />
     <g
        id="layer1-8-8"
        inkscape:label="Layer 1"
-       transform="matrix(0.56363333,0,0,0.56357694,847.85232,54.901437)">
+       transform="matrix(0.04000674,0,0,0.03949128,169.42993,508.92873)">
       <g
          id="g996"
          style="stroke:#ffffff;stroke-opacity:1" />
@@ -149,7 +149,7 @@
        aria-label="Hex"
        id="text4141"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)">
+       transform="matrix(0.05207716,0,0,0.05140617,128.40717,521.15168)">
       <path
          d="m 300.521,573.70593 h 61.875 v 337.5 H 300.521 V 773.39343 H 79.270996 v 137.8125 h -61.875 v -337.5 h 61.875 v 137.8125 H 300.521 Z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -167,7 +167,7 @@
        aria-label="ps"
        id="text4145"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)">
+       transform="matrix(0.05207716,0,0,0.05140617,128.40717,521.15168)">
       <path
          d="m 1657.8145,638.49414 q 26.7187,0 45.4687,19.21875 19.2188,18.75 19.2188,45.46875 v 142.5 q 0,26.71875 -19.2188,45.9375 -18.75,18.75 -45.4687,18.75 h -150 v 107.81246 h -61.4063 V 638.49414 Z m 3.2812,207.1875 v -142.5 q 0,-3.28125 -3.2812,-3.28125 h -146.7188 q -3.2812,0 -3.2812,3.28125 v 142.5 q 0,3.28125 3.2812,3.28125 h 146.7188 q 3.2812,0 3.2812,-3.28125 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:468.75px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -180,7 +180,7 @@
     <g
        id="layer1-8"
        inkscape:label="Layer 1"
-       transform="matrix(0.56363333,0,0,0.56357694,1026.0159,350.77064)">
+       transform="matrix(0.04000674,0,0,0.03949128,182.076,529.66104)">
       <path
          d="M 459.2816,912.39051 257.15733,1030.4234 53.875722,914.39505 52.718396,680.33386 254.84267,562.30099 458.12428,678.32931 Z"
          inkscape:randomized="0"
@@ -271,11 +271,11 @@
        aria-label="///////"
        id="text1326"
        style="font-style:normal;font-weight:normal;font-size:533.333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)" />
+       transform="matrix(0.05207716,0,0,0.05140617,128.40717,521.15168)" />
     <g
        aria-label="/////////////////"
        id="text1436"
        style="font-size:533.333px;line-height:1.25;font-family:sans-serif;letter-spacing:-100px"
-       transform="matrix(0.73368684,0,0,0.73361343,269.90491,229.33423)" />
+       transform="matrix(0.05207716,0,0,0.05140617,128.40717,521.15168)" />
   </g>
 </svg>
